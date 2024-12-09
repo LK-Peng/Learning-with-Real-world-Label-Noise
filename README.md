@@ -20,7 +20,7 @@
 
 If you use this dataset, please cite the following papers:
 
-$$
+'''
 @ARTICLE{10757363,
   author={Peng, Longkang and Wei, Tao and Chen, Xuehong and Chen, Xiaobei and Sun, Rui and Wan, Luoma and Chen, Jin and Zhu, Xiaolin},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
@@ -31,4 +31,4 @@ $$
   pages={1500-1514},
   keywords={Noise;Remote sensing;Noise measurement;Classification algorithms;Accuracy;Estimation;Scene classification;Training data;Training;Satellite images;Convolutional neural network (ConvNet);human-annotated label noise;label noise;remote sensing;scene classification},
   doi={10.1109/JSTARS.2024.3502461}}
-$$
+'''
